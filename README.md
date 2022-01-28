@@ -1,4 +1,4 @@
-# Team Social Dev Devloper
+# 평범한 학생
 
 ### languages
 
