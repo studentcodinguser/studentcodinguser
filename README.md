@@ -2,7 +2,7 @@
 
 ### languages
 
-> HTML, CSS, React, JS, 
+> HTML, CSS, React, JS, C
 
 ### IDE
 
