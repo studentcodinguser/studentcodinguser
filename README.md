@@ -2,7 +2,8 @@
 
 ### languages
 
-> HTML, CSS, React, JS, C, python
+> Main : Html, Css, Python, C
+> Sub : JS, React
 
 ### IDE
 
